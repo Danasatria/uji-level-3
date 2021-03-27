@@ -1,0 +1,15 @@
+.keranjang{
+    overflow-y: scroll;
+    height: 430px;
+    overflow-x: hidden;
+}#tempatproduk{
+    overflow-y: scroll;
+    height: 663px;
+    overflow-x: hidden;
+}.barang{
+    width: 800px;
+}.badge{
+    text-decoration: none;
+}#p1{
+    font-size: 5px;
+}
